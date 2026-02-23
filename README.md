@@ -12,6 +12,20 @@ Sistema distribuído onde cada nó mantém uma cópia local da blockchain, comun
 
 # Estrutura do Projeto
 
+bitcoin-like-blockchain/
+├── src/
+│   └── blockchain/
+│       ├── __init__.py
+│       ├── block.py         # Estrutura do bloco
+│       ├── blockchain.py    # Gerenciamento da cadeia
+│       ├── transaction.py   # Transações
+│       ├── node.py          # Nó da rede P2P
+│       ├── miner.py         # Proof of Work
+│       └── protocol.py      # Protocolo de comunicação
+├── main.py                  # Ponto de entrada
+├── pyproject.toml
+└── README.md
+
 # Instalar dependências
 uv sync
 
