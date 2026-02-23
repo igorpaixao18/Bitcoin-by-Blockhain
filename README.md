@@ -2,15 +2,15 @@
 
 Implementação de um sistema distribuído de criptomoeda inspirado no Bitcoin.
 
-# Equipe
+## Equipe
 
 * Igor Matthews Paixão Ferreira
 
-# Objetivo
+## Objetivo
 
 Sistema distribuído onde cada nó mantém uma cópia local da blockchain, comunicando-se via sockets com serialização JSON e utilizando Proof of Work simplificado.
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 bitcoin-like-blockchain/
@@ -28,13 +28,13 @@ bitcoin-like-blockchain/
 └── README.md
 ```
 
-# Instalar dependências
+## Instalar dependências
 `uv sync`
 
-# Executar nó
+## Executar nó
 `uv run python main.py --port 5000 --bootstrap localhost:5001`
 
-# Protocolo de Mensagens
+## Protocolo de Mensagens
 
 | Tipo | Descrição |
 | :---: | :---: |
@@ -43,7 +43,7 @@ bitcoin-like-blockchain/
 | `REQUEST_CHAIN`	| Solicita blockchain |
 | `RESPONSE_CHAIN` | Resposta com blockchain |
 
-# Requisitos
+## Requisitos
 
 * Proof of Work: hash iniciando com `000`
 * Comunicação: sockets TCP + JSON
