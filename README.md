@@ -36,10 +36,10 @@ Sistema distribuído onde cada nó mantém uma cópia local da blockchain, comun
 
 | Tipo | Descrição |
 | :---: | :---: |
-| NEW_TRANSACTION |	Nova transação |
-| NEW_BLOCK	| Bloco minerado |
-| REQUEST_CHAIN	| Solicita blockchain |
-| RESPONSE_CHAIN | Resposta com blockchain |
+| `NEW_TRANSACTION` |	Nova transação |
+| `NEW_BLOCK`	| Bloco minerado |
+| `REQUEST_CHAIN`	| Solicita blockchain |
+| `RESPONSE_CHAIN` | Resposta com blockchain |
 
 # Requisitos
 
