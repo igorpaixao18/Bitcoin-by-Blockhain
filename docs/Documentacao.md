@@ -18,7 +18,7 @@ Sistema distribuído de criptomoeda simplificado (Bitcoin-like) implementado em 
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                          Node                                │
+│                          Node                               │
 │  - Servidor TCP (aceita conexões)                           │
 │  - Gerencia peers                                           │
 │  - Processa mensagens do protocolo                          │
