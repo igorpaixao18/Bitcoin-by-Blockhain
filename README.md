@@ -2,7 +2,7 @@
 
 Implementação de um sistema distribuído de criptomoeda inspirado no Bitcoin.
 
-## Equipe
+## Autor:
 
 * Igor Matthews Paixão Ferreira
 
