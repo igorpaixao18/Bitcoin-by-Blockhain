@@ -43,6 +43,6 @@ Sistema distribuído onde cada nó mantém uma cópia local da blockchain, comun
 
 # Requisitos
 
-Proof of Work: hash iniciando com `000`
-Comunicação: sockets TCP + JSON
+Proof of Work: hash iniciando com `000`\n
+Comunicação: sockets TCP + JSON\n
 Hash: SHA-256
