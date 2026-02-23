@@ -31,3 +31,18 @@ uv sync
 
 # Executar nó
 uv run python main.py --port 5000 --bootstrap localhost:5001
+
+# Protocolo de Mensagens
+
+| Tipo | Descrição |
+| :---: | :---: |
+| NEW_TRANSACTION |	Nova transação |
+| NEW_BLOCK	| Bloco minerado |
+| REQUEST_CHAIN	| Solicita blockchain |
+| RESPONSE_CHAIN | Resposta com blockchain |
+
+# Requisitos
+
+Proof of Work: hash iniciando com 000
+Comunicação: sockets TCP + JSON
+Hash: SHA-256
