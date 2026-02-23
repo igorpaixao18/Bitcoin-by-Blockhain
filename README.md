@@ -12,7 +12,7 @@ Sistema distribuído onde cada nó mantém uma cópia local da blockchain, comun
 
 # Estrutura do Projeto
 
-`bitcoin-like-blockchain/
+>bitcoin-like-blockchain/
 ├── src/
 │   └── blockchain/
 │       ├── __init__.py
@@ -43,6 +43,6 @@ Sistema distribuído onde cada nó mantém uma cópia local da blockchain, comun
 
 # Requisitos
 
-Proof of Work: hash iniciando com `000`\n
-Comunicação: sockets TCP + JSON\n
+Proof of Work: hash iniciando com `000`
+Comunicação: sockets TCP + JSON
 Hash: SHA-256
