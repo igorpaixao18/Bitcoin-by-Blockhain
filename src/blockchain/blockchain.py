@@ -1,7 +1,3 @@
-"""
-Módulo da Blockchain
-"""
-
 from typing import Any
 from collections import defaultdict
 
