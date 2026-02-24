@@ -235,36 +235,36 @@ Nó A                          Nó B
 
 ## Status de Implementação
 
-### ✅ Semana 1 - Comunicação (COMPLETO)
+### Semana 1 - Comunicação
 - [x] Estrutura básica do nó
 - [x] Comunicação via sockets TCP
 - [x] Envio/recebimento de mensagens JSON
 
-### ✅ Semana 2 - Blockchain (COMPLETO)
+### Semana 2 - Blockchain
 - [x] Estrutura de bloco
 - [x] Blockchain local
 - [x] Validação da cadeia
 
-### ✅ Semana 3 - Transações (COMPLETO)
+### Semana 3 - Transações
 - [x] Estrutura de transação
 - [x] Pool de transações pendentes
 - [x] Propagação entre nós
 
-### ✅ Semana 4 - Consenso (COMPLETO)
+### Semana 4 - Consenso
 - [x] Proof of Work (dificuldade "000")
 - [x] Criação e propagação de blocos
 - [x] Aceitação de blocos remotos
 
-### ⏳ Semana 5 - Sincronização (PARCIAL)
+### ⏳ Semana 5 - Sincronização
 - [x] Entrada tardia na rede
 - [x] Sincronização da blockchain
 - [x] Resolução de conflitos (cadeia mais longa)
-- [ ] Testes de robustez
+- [x] Testes de robustez
 
 ### ⏳ Semana 6 - Finalização
-- [ ] Testes de integração com outras equipes
-- [ ] Relatório técnico
-- [ ] Apresentação
+- [x] Testes de integração com outras equipes
+- [x] Relatório técnico
+- [x] Apresentação
 
 ---
 
