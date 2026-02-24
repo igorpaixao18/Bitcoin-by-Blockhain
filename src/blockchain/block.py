@@ -1,7 +1,3 @@
-"""
-Módulo de Blocos
-"""
-
 import hashlib
 import json
 import time
