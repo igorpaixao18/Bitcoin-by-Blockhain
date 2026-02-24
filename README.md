@@ -1,4 +1,4 @@
-# Bitcoin-like-Blockhain
+# Bitcoin-like-Blockchain
 
 Implementação de um sistema distribuído de criptomoeda inspirado no Bitcoin.
 
@@ -37,7 +37,7 @@ bitcoin-like-blockchain/
 ## Protocolo de Mensagens
 
 | Tipo | Descrição |
-| :---: | :---: |
+| ----- | ----- |
 | `NEW_TRANSACTION` |	Nova transação |
 | `NEW_BLOCK`	| Bloco minerado |
 | `REQUEST_CHAIN`	| Solicita blockchain |
